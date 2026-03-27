@@ -81,9 +81,9 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/psf/requests
+2. Gráfico selecionado: ![Gráfico Function parameters do Requests](chart_function_parameters_requests.png)
+3. Explicação: Selecionei o gráfico **Function parameters**. O projeto aparenta ser manutenível e estável pelos outros gráficos, mas este chamou minha atenção por mostrar uma baixa adoção da tipagem estática nos parâmetros. O gráfico mostra que os parâmetros tipados (`typed_parameter`) quase não aparecem ao longo dos anos, enquanto os parâmetros sem tipo continuam dominando. Na prática, isso pode deixar passar erros de tipo com mais facilidade e fazer a validação depender mais de testes e revisão de código. Então, pela visão desse gráfico sozinho, eu diria que existe uma oportunidade clara de melhorar a segurança e a manutenção modificando a declaração dos parâmetros nas funções (mesmo que de forma gradual).
 
 
 

@@ -1,0 +1,7 @@
+date,Lines of code (LOC),Python files,LOC / Python files,production file,test file,tuple,dictionary,list,function_definition,class_definition,class,function,def,identifier,default_parameter,dictionary_splat_pattern,list_splat_pattern,no,return_statement,yield,@dataclass,if_statement,with_statement,for_statement,try_statement,while_statement,conditional_expression,list_comprehension,dictionary_comprehension,for_in_clause,raise_statement,import_from_statement,import_statement,future_import_statement,typed_parameter,keyword_separator,yes
+2021,9832,35,280.9142857142857,26,9,510,230,122,608,79,75.1,11.3,608,971,107,38,9,608,281,30,0,314,82,80,75,5,19,8,5,29,63,149,100,2,0,0,0
+2022,10187,35,291.0571428571429,26,9,523,237,125,628,81,74.3,11.4,628,997,108,38,9,628,284,34,0,324,104,81,85,5,20,8,5,29,69,162,108,2,0,0,0
+2023,10766,35,307.6,26,9,528,256,127,641,82,77.8,11.6,641,1024,108,42,13,641,287,34,0,316,110,80,82,5,18,8,5,29,71,149,104,2,0,0,0
+2024,10783,35,308.0857142857143,26,9,531,259,127,644,84,76.0,11.6,644,1024,108,42,13,644,287,34,0,315,115,76,82,5,19,8,6,30,70,152,104,2,0,0,0
+2025,11242,36,312.27777777777777,26,10,537,263,125,664,85,78.4,11.9,664,1046,120,42,13,663,297,34,0,329,122,77,83,5,19,8,6,30,71,155,106,2,4,1,1
+2026,11284,36,313.44444444444446,26,10,538,262,125,669,86,78.4,11.9,669,1056,120,42,13,668,296,34,0,329,125,77,82,5,19,8,6,30,71,147,106,2,4,1,1
